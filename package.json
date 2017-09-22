@@ -1,6 +1,6 @@
 {
-  "name": "vue-pagination",
-  "version": "1.0.0",
+  "name": "vue-pagination-lu",
+  "version": "1.0.1",
   "description": "VUE 分页组件",
   "main": "index.js",
   "scripts": {
